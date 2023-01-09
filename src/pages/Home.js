@@ -39,7 +39,7 @@ catch(err){
          <div className="bg-yellow-300 text-left flex">
        <div className="px-8 py-12 max-w-md mx-auto sm:max-w-xl lg:max-w-full lg:w-1/2 lg:py-24 lg:px-12">
       <div className="xl:max-w-lg xl:ml-auto">
-        <img className="mt-6 rounded-lg shadow-xl sm:mt-8 sm:w-full sm:object-cover sm:object-center lg:hidden" src="/images/y2k-newsletter-photo.webp" alt="Woman workcationing on the beach"/>
+        <img className="mt-6 rounded-lg shadow-xl sm:mt-8 sm:w-full sm:object-cover sm:object-center lg:hidden" src="images/y2k-newsletter-photo.webp" alt="model curly hair and hawaiian patterned top"/>
         <h1 className="mt-6 text-2xl font-bold text-gray-900 leading-tight sm:mt-8 sm:text-4xl lg:text-3xl xl:text-4xl">
           JOIN OUR SQUAD        
         </h1>
