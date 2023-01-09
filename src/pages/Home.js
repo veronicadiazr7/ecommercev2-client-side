@@ -79,7 +79,7 @@ catch(err){
       </div>
       </div>
       <div className="hidden lg:block lg:w-1/2 lg:relative">
-      <img className="absolute inset-0 h-full w-full object-cover object-center" src="/images/y2k-newsletter-photo.webp" alt="Woman flower outfit modeling"/>
+      <img className="absolute inset-0 h-full w-full object-cover object-center" src="/images/y2k-newsletter-photo.jpg" alt="Woman flower outfit modeling"/>
       </div>
       </div>
       </section>
