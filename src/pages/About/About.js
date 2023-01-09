@@ -16,7 +16,7 @@ export default class About extends Component {
     <div class="px-8 py-12 max-w-md mx-auto sm:max-w-xl lg:max-w-full lg:w-1/2 lg:py-24 lg:px-12">
       <div class="xl:max-w-lg xl:ml-auto">
   
-        <img class="mt-6 rounded-lg shadow-xl sm:mt-8 sm:h-64 sm:w-full sm:object-cover sm:object-center lg:hidden" src="/images/choose-used.webp" alt="Clothing"/>
+        <img class="mt-6 rounded-lg shadow-xl sm:mt-8 sm:h-64 sm:w-full sm:object-cover sm:object-center lg:hidden" src="images/choose-used.jpg" alt="Clothing"/>
         <h1 class="text-pink-300 mt-6 text-2xl font-bold text-gray-900 leading-tight sm:mt-8 sm:text-4xl lg:text-3xl xl:text-4xl font-mono">
         Reduce Waste.{" "}
         </h1>
@@ -31,7 +31,7 @@ export default class About extends Component {
       </div>
     </div>
     <div class="hidden lg:block lg:w-1/2 lg:relative">
-      <img class="absolute inset-0 h-full w-full object-cover object-center" src="images/choose-used.webp" alt="Clothing"/>
+      <img class="absolute inset-0 h-full w-full object-cover object-center" src="images/choose-used.jpg" alt="Clothing"/>
     </div>
   </div>
         </section>
@@ -64,7 +64,7 @@ export default class About extends Component {
     <div class="px-8 py-12 max-w-md mx-auto sm:max-w-xl lg:max-w-full lg:w-1/2 lg:py-24 lg:px-12">
       <div class="xl:max-w-lg xl:ml-auto">
   
-        <img class="mt-6 rounded-lg shadow-xl sm:mt-8 sm:h-64 sm:w-full sm:object-cover sm:object-center lg:hidden" src="/images/apparel.webp" alt="Clothing rack with vintage clothing pieces"/>
+        <img class="mt-6 rounded-lg shadow-xl sm:mt-8 sm:h-64 sm:w-full sm:object-cover sm:object-center lg:hidden" src="images/apparel.jpg" alt="Clothing rack with vintage clothing pieces"/>
         <h1 class="text-pink-300 mt-6 text-2xl font-bold text-gray-900 leading-tight sm:mt-8 sm:text-4xl lg:text-3xl xl:text-4xl font-mono">
         Curate A One-Of-A-Kind Wardrobe.
         </h1>
