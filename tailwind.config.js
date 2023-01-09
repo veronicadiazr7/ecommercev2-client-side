@@ -9,7 +9,7 @@ module.exports = {
     },
     extend: {
      backgroundImage:{
-      'wrinkledpaper':"url('./components/wrinkledpaperbackground.webp')",
+      'wrinkledpaper':"url('.src/components/wrinkledpaperbackground.webp')",
       'yellowruledpaper':"url('./components/yellowruledpaper.webp')",
      }
     },
@@ -18,3 +18,4 @@ module.exports = {
 }
 
 // backgroundImage:{'wrinkledpaper': "url('/images/wrinkledpaperbackground.webp')",
+//src/components/Footer.js
