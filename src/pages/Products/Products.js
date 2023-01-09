@@ -24,11 +24,6 @@ export const Products = () => {
   return (
     <div className=" bg-wrinkledpaper">
       <HeroImage />
-      <div className="">
-          <img className='w-full h-auto bg-no-repeat bg-cover'
-            src="images/shopourcollection.webp"
-            alt="woman in red coat combat boots collection hero img"
-          /></div>
       <main>
      <ProductNavBarFilter setProducts={setProducts}/>
         <section>
