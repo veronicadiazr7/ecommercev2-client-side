@@ -78,7 +78,7 @@ export default class About extends Component {
       </div>
     </div>
     <div class="hidden lg:block lg:w-1/2 lg:relative">
-      <img class="absolute inset-0 h-full w-full object-cover object-center" src="images/apparel.webp" alt="Clothing rack with vintage clothing pieces"/>
+      <img class="absolute inset-0 h-full w-full object-cover object-center" src="images/apparel.jpg" alt="Clothing rack with vintage clothing pieces"/>
     </div>
   </div>
         </section>
