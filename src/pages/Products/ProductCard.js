@@ -7,7 +7,7 @@ export const ProductCard = (props) => {
   <section className=" font-mono w-fit m-auto grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 justify-items-center justify-center gap-y-20 gap-x-14 mt-10 pb-14"> 
       {props.products.map((product)=>(
          
-          <div className="w-72 h-auto bg-slate-300 shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
+          <div className="w-72 h-auto bg-slate-300 shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl" key={product.id}>
             <Link >
               <div className="h-100 w-72 object-cover rounded-t-xl"> {product.image && <img src={product.image} alt="Apparel Products"/>} </div>
               <div className="px-4 py-3 w-72 bg-yellow-300">
